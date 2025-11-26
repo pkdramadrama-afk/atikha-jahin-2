@@ -1,7 +1,7 @@
 {
   "channel_id": "UCuECklyQDvSVfyWrQr-au9Q",
-  "uploaded_count": 6,
-  "last_run_date": "2025-11-25T11:32:34.162753",
+  "uploaded_count": 9,
+  "last_run_date": "2025-11-26T12:59:27.568844",
   "upload_history": [
     {
       "date": "2025-11-25T11:30:01.688008",
@@ -59,6 +59,36 @@
         "ip": "64.236.133.196",
         "city": "Chicago",
         "region": "Illinois",
+        "country": "United States",
+        "org": "Microsoft Corporation"
+      }
+    },
+    {
+      "date": "2025-11-26T12:59:27.568853",
+      "videos": [
+        {
+          "video_id": "donc_-bAgNg",
+          "title": "video_1",
+          "url": "https://www.youtube.com/watch?v=donc_-bAgNg",
+          "scheduled_time": "2026-05-25T20:00:00"
+        },
+        {
+          "video_id": "SmMle_aBqIs",
+          "title": "video_2",
+          "url": "https://www.youtube.com/watch?v=SmMle_aBqIs",
+          "scheduled_time": "2026-05-25T20:15:00"
+        },
+        {
+          "video_id": "PdB6WVpzYp0",
+          "title": "video_3",
+          "url": "https://www.youtube.com/watch?v=PdB6WVpzYp0",
+          "scheduled_time": "2026-05-25T20:30:00"
+        }
+      ],
+      "ip_info": {
+        "ip": "128.24.162.146",
+        "city": "Cheyenne",
+        "region": "Wyoming",
         "country": "United States",
         "org": "Microsoft Corporation"
       }
